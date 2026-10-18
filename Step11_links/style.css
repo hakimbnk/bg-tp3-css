@@ -283,5 +283,6 @@ body {
 
 .links li {
   line-height: 2.8;
+  text-decoration: none;
 }
 
